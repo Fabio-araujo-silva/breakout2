@@ -22,5 +22,6 @@ while True:
             pygame.quit()
             exit()
         
+        pygame.draw.rect(tela, ())
         #faz o jogo sempre atualizar
         pygame.display.update()
